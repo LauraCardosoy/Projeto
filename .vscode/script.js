@@ -18,3 +18,4 @@ function toogleMode() {
     alt.setAttribute('alt', 'mayke de camisa preta')
   }
 }
+
